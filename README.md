@@ -1,6 +1,6 @@
 # New dev-platypus project.
 
-This is a new project of dev-platypus.
+This project is a collection of utility stuff, used by Dev Platypus.
 
 #### Authors
 **Main developers: [Alexander Lenz], [Andreas Schulz]**  
@@ -8,8 +8,8 @@ This is a new project of dev-platypus.
 
 *This is a [Platypus Dev] project.*
 
-   [Platypus Dev]: <https://github.com/dev-platypus>
-   [Alexander Lenz]: <mailto:fslenz@gmail.com>
-   [Andreas Schulz]: <mailto:andi.schulz@me.com>
+   [Platypus Dev]: <wwww.dev-platypus.org>
+   [Alexander Lenz]: <mailto:alenz@dev-platypus.org>
+   [Andreas Schulz]: <mailto:aschulz@dev-platypus.org>
 
 
