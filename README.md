@@ -1,4 +1,4 @@
-# New dev-platypus project.
+# platyutil
 
 This project is a collection of utility stuff, used by Dev Platypus.
 
