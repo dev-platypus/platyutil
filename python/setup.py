@@ -48,8 +48,8 @@ setup(
         'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
-        'Topic :: Scientific/Engineering',
-        'Topic :: Scientific/Engineering :: Human Machine Interfaces',
-        'Topic :: Scientific/Engineering :: Physics',
+        'Topic :: Software Development',
+        'Topic :: Software Development :: Libraries',
+        'Topic :: Utilities',
     ],
 )
