@@ -35,7 +35,8 @@ setup(
     license = 'GPL',
     author = 'Dev Platypus',
     author_email = 'info@dev-platypus.org',
-    description = 'Server control daemon',
+    description = 'This project is a collection of utility stuff, used by Dev Platypus.',
+    url='https://github.com/dev-platypus/platyutil'
     packages = find_packages(),
     package_data = {'platyutil': ['RELEASE-VERSION']},
     classifiers = [
